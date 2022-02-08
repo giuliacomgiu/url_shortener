@@ -1,0 +1,23 @@
+{
+  "name": "sharding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "pg",
+    "hashring"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.2",
+    "hashring": "^3.2.0",
+    "pg": "^8.7.3"
+  }
+}
